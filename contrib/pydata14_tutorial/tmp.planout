@@ -1,0 +1,3 @@
+
+  button_text = uniformChoice(choices=['Purchase','Buy'], unit=userid);
+  has_discount = bernoulliTrial(p=0.3, unit=userid);
